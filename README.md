@@ -91,20 +91,20 @@
 
 ---
 
+
+## 🧠 Coding Profiles  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayushksingh07?theme=dark&font=Baloo&ext=contest" height="200"/>
+</p>
+
+---
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://github.com/ayushksingh-19">💻 GitHub</a> •
   <a href="https://leetcode.com/u/ayushksingh07/">🧠 LeetCode</a> •
   <a href="https://www.linkedin.com/in/ayush-kumar-singh-7a663828b">🔗 LinkedIn</a>
-</p>
-
----
-
-## 🧠 Coding Profiles  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ayushksingh07?theme=dark&font=Baloo&ext=contest" height="200"/>
 </p>
 
 ---
