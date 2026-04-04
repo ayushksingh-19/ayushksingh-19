@@ -95,8 +95,8 @@
 
 <p align="center">
   <a href="https://github.com/ayushksingh-19">GitHub</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">Portfolio</a>
+  <a href="https://leetcode.com/u/ayushksingh07/">LinkedIn</a> •
+  <a href="www.linkedin.com/in/ayush-kumar-singh-7a663828b">LeetCode</a>
 </p>
 
 ---
