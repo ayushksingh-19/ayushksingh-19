@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+AutoAssist+%26+PawAssist;Problem+Solver&center=true&width=540&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+AutoAssist+%26+PawAssist;Problem+Solver;Turning+Ideas+Into+Products&center=true&width=600&height=50">
 </p>
 
 <h3 align="center">💻 Full Stack Developer | MERN | Real-World Problem Solver</h3>
@@ -52,7 +52,7 @@
 
 ### ☁️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github&theme=dark" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushksingh-19&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" height="165"/>
@@ -94,13 +94,21 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/ayushksingh-19">GitHub</a> •
-  <a href="https://leetcode.com/u/ayushksingh07/">LinkedIn</a> •
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-7a663828b">LinkedIn</a>
+  <a href="https://github.com/ayushksingh-19">💻 GitHub</a> •
+  <a href="https://leetcode.com/u/ayushksingh07/">🧠 LeetCode</a> •
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-7a663828b">🔗 LinkedIn</a>
+</p>
+
+---
+
+## 🧠 Coding Profiles  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayushksingh07?theme=dark&font=Baloo&ext=contest" height="200"/>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Consistency > Motivation</b>
+  ⭐ <b>Consistency > Motivation | Build. Break. Repeat.</b>
 </p>
