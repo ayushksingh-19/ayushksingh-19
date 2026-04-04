@@ -102,9 +102,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/ayushksingh-19">💻 GitHub</a> •
-  <a href="https://leetcode.com/u/ayushksingh07/">🧠 LeetCode</a> •
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-7a663828b">🔗 LinkedIn</a>
+  <a href="https://github.com/ayushksingh-19"> GitHub</a> •
+  <a href="https://leetcode.com/u/ayushksingh07/"> LeetCode</a> •
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-7a663828b"> LinkedIn</a>
 </p>
 
 ---
