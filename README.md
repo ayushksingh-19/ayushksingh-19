@@ -69,7 +69,7 @@ const ayush = {
 - 🚑 Emergency pet support
 - 💊 Health & care tracking *(planned)*
 
-![Status](https://img.shields.io/badge/Status-In%20Development-f59e0b?style=flat-square&logo=github)
+![Status](https://img.shields.io/badge/Status-Live%20%26%20Deployed-22c55e?style=flat-square&logo=vercel)
 ![Stack](https://img.shields.io/badge/Stack-MERN-3b82f6?style=flat-square&logo=mongodb)
 
 </td>
