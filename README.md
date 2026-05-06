@@ -57,7 +57,7 @@ const ayush = {
 </td>
 <td width="50%">
 
-### 🐾 PawAssist — `🔨 In Progress`
+### 🐾 PawAssist — `✅ Live`
 
 > **Pet care on-demand platform**
 
