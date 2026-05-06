@@ -60,7 +60,7 @@ const ayush = {
 ### 🐾 PawAssist — `🔨 In Progress`
 
 > **Pet care on-demand platform**
-🔗 **[Live Website]([https://paw-assist.vercel.app])** &nbsp;|&nbsp; 📦 **[GitHub Repo](https://github.com/ayushksingh-19/PawAssist)**
+🔗 **[Live Website](https://paw-assist.vercel.app)** &nbsp;|&nbsp; 📦 **[GitHub Repo](https://github.com/ayushksingh-19/PawAssist)**
 
 
 - 🏥 Vet booking & consultations
