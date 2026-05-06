@@ -25,7 +25,7 @@
 const ayush = {
   role        : "Full Stack Developer (MERN)",
   education   : "BTech CSE Student",
-  building    : ["AutoAssist 🚗 ✅", "PawAssist 🐾 🔨"],
+  building    : ["AutoAssist 🚗 ✅", "PawAssist 🐾✅ "],
   passions    : ["Real-world problem solving", "Clean UI/UX", "Scalable systems"],
   philosophy  : "Consistency > Motivation | Build. Break. Repeat. 🔁",
   openTo      : "Internships, Collabs & Opportunities",
